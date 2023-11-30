@@ -1,2 +1,5 @@
-# useful_commands
-git/pyqt/latex等一些个人认为有必要记录下的命令
+# 实用的命令
+## git
+## pyqt5
+## latex
+
